@@ -1,13 +1,19 @@
-# TOPS-Assignments
-The hardware componets task have been completed.
+# TOPS Assignments
 
-## Assignment
+This repository contains the assignments completed during my training at TOPS Technologies.
 
-* Hardware and Its Components
+## Assignments
 
-## Description
+### 1. Hardware and Its Components
+- Introduction to computer hardware
+- Internal and external hardware components
+- Basic understanding of computer architecture
 
-This assignment covers the basic concepts of computer hardware and its major components, including input devices, output devices, storage devices, and processing units.
+### 2. Types of Motherboards and CPU Sockets
+- Different types of motherboards
+- CPU socket types and compatibility
+- Basic motherboard architecture
 
-Author: Prem Gosavi
+---
 
+More assignments will be added as I continue my learning journey.
