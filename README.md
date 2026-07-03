@@ -22,4 +22,15 @@ This repository contains the assignments completed during my training at TOPS Te
 
 ---
 
+### 3. RAM and Storage
+- Types of RAM (DDR3, DDR4, DDR5)
+- Types of Storage (HDD vs. SSD vs. NVMe)
+- Removing and Reinstalling RAM Modules
+- Removing and Reinstalling Storage Drives
+- Performance comparison of different storage devices
+
+**File:** `RAM and Storage Task.pdf`
+
+---
+
 More assignments will be added as I continue my learning journey.
