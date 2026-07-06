@@ -46,4 +46,21 @@ This repository contains the assignments completed during my training at TOPS Te
 
 ---
 
+### 4. Assemble and Disassemble a Desktop PC
+- Identifying all internal desktop PC components
+- Safe PC shutdown and power disconnection
+- Removing the cabinet side panel
+- Disconnecting internal power and data cables
+- Removing RAM modules
+- Removing HDD/SSD storage devices
+- Removing the motherboard and other hardware components
+- Reassembling the desktop PC in the correct sequence
+- Explaining the importance of the installation order
+- Safety precautions and required tools for PC assembly/disassembly
+- Documenting each step using labeled photos or diagrams with captions
+
+**File:** `Assemble and Disassemble a Desktop PC Task.pdf`
+
+---
+
 More assignments will be added as I continue my learning journey.
