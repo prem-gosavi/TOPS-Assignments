@@ -14,3 +14,14 @@ This folder contains my CompTIA A+ assignments completed during training at TOPS
 **File:** `SMPS and UPS systems Task.pdf`
 
 ---
+
+### 2. Peripheral Troubleshooting
+**Topics Covered**
+- Printer Troubleshooting
+- Webcam Troubleshooting
+- Bluetooth Troubleshooting
+- Windows Troubleshooter
+
+**File:** `Peripheral Troubleshooting Task.pdf`
+
+---
