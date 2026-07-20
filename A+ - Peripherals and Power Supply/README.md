@@ -34,3 +34,15 @@ This folder contains my CompTIA A+ assignments completed during training at TOPS
 - Testing Devices
 
 **File:** `Connecting and Testing Peripherals Task.pdf`
+
+---
+
+### 4. Overview of Peripherals
+**Topics Covered**
+- Printers
+- Scanners
+- Webcams
+- Connection Interfaces
+
+**File:** `Overview of Peripherals Task.pdf`
+
