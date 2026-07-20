@@ -25,3 +25,12 @@ This folder contains my CompTIA A+ assignments completed during training at TOPS
 **File:** `Peripheral Troubleshooting Task.pdf`
 
 ---
+
+### 3. Connecting and Testing Peripherals
+**Topics Covered**
+- Printer Installation
+- Webcam Installation
+- Device Manager
+- Testing Devices
+
+**File:** `Connecting and Testing Peripherals Task.pdf`
