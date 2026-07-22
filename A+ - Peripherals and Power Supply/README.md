@@ -46,3 +46,20 @@ This folder contains my CompTIA A+ assignments completed during training at TOPS
 
 **File:** `Overview of Peripherals Task.pdf`
 
+---
+
+### 5. Operating Systems
+**Topics Covered**
+- Operating System Information
+- Windows 10 Installation
+- Linux (Ubuntu) Installation
+- macOS Settings and Customization
+- Creating Bootable USB Drives
+- VirtualBox Installation
+- User Account Management
+- Automatic Login Configuration
+- Privacy and Windows Update Settings
+
+**File:** `windows, Linux, macOS installation and adjust OS settings Task.pdf`
+
+---
