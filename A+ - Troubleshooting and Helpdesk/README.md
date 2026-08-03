@@ -38,4 +38,21 @@ This folder contains my **CompTIA A+ Troubleshooting and Helpdesk** assignments 
 
 ---
 
+### 3. Diagnosing Hardware Failures
+
+**Topics Covered**
+
+- Common Desktop PC Hardware Failures
+- Hardware Symptoms and Diagnosis
+- Laptop Charging Troubleshooting
+- Testing USB Charger Voltage Using a Multimeter
+- Testing the SMPS 12V Rail
+- Diagnosing Faulty Power Supplies
+- Hardware Troubleshooting Techniques
+- Safe Multimeter Usage
+
+**File:** `Diagnosing Hardware Failures Task.pdf`
+
+---
+
 More assignments will be added as I continue my learning journey at **TOPS Technologies**.
