@@ -55,4 +55,23 @@ This folder contains my **CompTIA A+ Troubleshooting and Helpdesk** assignments 
 
 ---
 
+### 4. Component-Specific Troubleshooting
+
+**Topics Covered**
+
+- RAM Troubleshooting
+- RAM Reseating and Installation
+- GPU Troubleshooting
+- Display and Graphics Issues
+- GPU Driver and Physical Connection Checks
+- Storage Troubleshooting
+- SATA SSD Connectivity Issues
+- BIOS Storage Detection
+- Diagnosing Random PC Restarts
+- Hardware Troubleshooting Checklists
+
+**File:** `Diagnosing Hardware Failures Task.pdf`
+
+---
+
 More assignments will be added as I continue my learning journey at **TOPS Technologies**.
