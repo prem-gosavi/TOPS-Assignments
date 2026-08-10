@@ -74,4 +74,21 @@ This folder contains my **CompTIA A+ Troubleshooting and Helpdesk** assignments 
 
 ---
 
-More assignments will be added as I continue my learning journey at **TOPS Technologies**.
+### 5. Troubleshooting and Helpdesk – Case Studies
+
+**Topics Covered**
+
+- Laptop Power-On Troubleshooting
+- Monitor Blank Screen Troubleshooting
+- Wireless Mouse Connectivity Issues
+- Hardware and USB Port Isolation
+- Gaming PC Overheating
+- Fan and Cooling System Troubleshooting
+- Dust and Airflow Problems
+- Thermal Paste Inspection
+- Systematic Helpdesk Troubleshooting
+- Hardware Fault Diagnosis
+
+**File:** `Case Study Task.pdf`
+
+---
