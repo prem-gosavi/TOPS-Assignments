@@ -1,1 +1,27 @@
+# A+ - Understanding and Maintenance of Networks
 
+This folder contains my **CompTIA A+ Understanding and Maintenance of Networks** assignments completed during training at **TOPS Technologies**.
+
+## Assignment
+
+### 1. Introduction to Networking Hardware
+
+**Topics Covered**
+
+- Modem
+- Router
+- Switch
+- Access Point
+- Network Cables
+- Typical Home Wi-Fi Setup
+- Ethernet, Coaxial, and Fiber Optic Cables
+- Router vs Switch Comparison
+- Basic Networking Hardware Functions
+
+**File:** `Networking Hardware Task.pdf`
+
+---
+
+More assignments will be added as I continue my learning journey.
+
+---
