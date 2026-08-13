@@ -22,6 +22,24 @@ This folder contains my **CompTIA A+ Understanding and Maintenance of Networks**
 
 ---
 
+### 2. Routers and Switches
+
+**Topics Covered**
+
+- Basic Functions of Routers and Switches
+- Router and Switch Ports
+- WAN, LAN and Console Ports
+- Status LED Indicators
+- Router vs Switch Differences
+- IP Addresses and MAC Addresses
+- Router and Switch Traffic Handling
+- Gaming Café Network Setup
+- Connecting 8 Gaming PCs to a Network
+
+**File:** `Routers and Switches Task.pdf`
+
+---
+
 More assignments will be added as I continue my learning journey.
 
 ---
