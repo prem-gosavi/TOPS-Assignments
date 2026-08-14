@@ -40,6 +40,24 @@ This folder contains my **CompTIA A+ Understanding and Maintenance of Networks**
 
 ---
 
+### 3. Configuring Basic Network Hardware
+
+**Topics Covered**
+
+- IP Addressing Basics
+- Router Default Settings
+- Accessing Router Admin Panel
+- Finding Default Gateway using `ipconfig`
+- DHCP and Static IP Configuration
+- Testing Internet Connectivity
+- DHCP IP Address Range
+- IP Address Conflicts
+- Restoring Automatic (DHCP) Settings
+
+**File:** `Configuring Basic Network Hardware Task.pdf`
+
+---
+
 More assignments will be added as I continue my learning journey.
 
 ---
