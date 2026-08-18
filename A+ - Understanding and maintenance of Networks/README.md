@@ -58,6 +58,24 @@ This folder contains my **CompTIA A+ Understanding and Maintenance of Networks**
 
 ---
 
+### 4. Network Cable Types and Tools
+
+**Topics Covered**
+
+- Ethernet and Fiber Optic Cables
+- Differences Between Ethernet and Fiber Optic Cables
+- T568B Wiring Standard
+- Straight-Through Ethernet Cable
+- RJ45 Connector Installation
+- Using an RJ45 Crimper
+- CAT6 Cable Preparation and Crimping
+- Ethernet Cable Testing
+- Choosing Network Cables for a Gaming Café
+
+**File:** `Network Cable Types and Tools Task.pdf`
+
+---
+
 More assignments will be added as I continue my learning journey.
 
 ---
