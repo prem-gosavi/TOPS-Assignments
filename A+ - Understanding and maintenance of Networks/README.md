@@ -76,6 +76,22 @@ This folder contains my **CompTIA A+ Understanding and Maintenance of Networks**
 
 ---
 
-More assignments will be added as I continue my learning journey.
+### 5. Network Testing
+
+**Topics Covered**
+
+- Basic Network Setup
+- Connecting Devices to the Same Wi-Fi Network
+- Finding IP Addresses Using `ipconfig`
+- Testing Connectivity Using `ping`
+- Successful and Failed Ping Tests
+- Testing Connectivity After Disconnecting a Device
+- Using `tracert` to Trace a Network Path
+- Understanding Network Hops
+- Viewing Connected Devices Using `arp -a`
+- Network Testing Results and Observations
+
+
+**File:** `Network Testing Task.pdf`
 
 ---
