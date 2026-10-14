@@ -6,8 +6,15 @@ This folder contains assignments completed as part of the N+ Network Fundamental
 
 Assignments
 
+**Topics Covered**
+
 ### 1. Introduction to Networking and OSI Model
 - Introduction to computer networking
 - OSI layers and their functions
 - Identification of OSI layers using Wireshark
 - Real-world examples of the OSI model
+
+**File:** `Introduction to Networking and the OSI Model Task.pdf`
+
+---
+
