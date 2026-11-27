@@ -32,3 +32,19 @@ This folder contains my CCNA Routing and Switching assignment completed during t
 
 ---
 
+### 3. Configuring RIP
+
+**Topics Covered**
+
+- Capturing RIP Updates in Cisco Packet Tracer Simulation Mode.
+- Filtering the Event List to display RIP packets only.
+- Capturing the RIP update from WAREHOUSE-R3 to OFFICE-R2.
+- Analyzing advertised networks and RIP hop-count metrics.
+- Verifying RIP routes using the show ip route rip command.
+- Checking the 172.16.40.0/24 network with a hop count of 3 on SHOWROOM-R1.
+- Saving and verifying the Packet Tracer configuration.
+
+**File:** `Configuring RIP Task.pdf`
+
+---
+
